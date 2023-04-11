@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Ankasa App</h3>
   <p align="center">
-    <a href="https://github.com/preedok/FE-ANKASA"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alifankebima/ankasa-frontend"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://insancitaticket.vercel.app/">View Demo</a>
     ·
@@ -53,7 +53,7 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/preedok/FE-ANKASA
+git clone https://github.com/alifankebima/ankasa-frontend
 ```
 
 - Go To Folder Repo
@@ -160,9 +160,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Ankasa`](https://github.com/preedok/ankasa-backend)
+:rocket: [`Backend Ankasa`](https://github.com/alifankebima/ankasa-backend)
 
-:rocket: [`Frontend Ankasa`](https://github.com/preedok/FE-ANKASA)
+:rocket: [`Frontend Ankasa`](https://github.com/alifankebima/ankasa-frontend)
 
 :rocket: [`Demo Ankasa`](https://insancitaticket.vercel.app/)
 

@@ -59,7 +59,7 @@ git clone https://github.com/alifankebima/ankasa-frontend
 - Go To Folder Repo
 
 ```
-cd FE-ANKASA
+cd ankasa-frontend
 ```
 
 - Install Module
@@ -221,4 +221,4 @@ Contributions are what make the open source community such an amazing place to b
   </table>
 </center>
 
-Project Link: [https://github.com/preedok/FE-ANKASA](https://github.com/preedok/FE-ANKASA)
+Project Link: [https://github.com/alifankebima/ankasa-frontend](https://github.com/alifankebima/ankasa-frontend)

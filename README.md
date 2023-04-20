@@ -188,7 +188,7 @@ Contributions are what make the open source community such an amazing place to b
         </a>
       </td>
       <td align="center">
-        <a href=https://github.com/alifankebima">
+        <a href="https://github.com/alifankebima">
           <img width="200"  src="./documentation/alif.jpg" alt=""><br/>
           <b>Alif Anke Bima Putra</b>
         </a>

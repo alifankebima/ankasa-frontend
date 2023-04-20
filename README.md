@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://github.com/alifankebima/ankasa-frontend"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://insancitaticket.vercel.app/">View Demo</a>
+    <a href="https://ankasa2023.vercel.app/">View Demo</a>
     ·
     <a href="https://clear-newt-getup.cyclic.app/">Api Demo</a>
   </p>
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-Tired with your daily life and need a quick vacation to another city and/or country? Worry not, Angkasa will help you find a flight ticket to any popular destination in the world. Start creating an account to buy you and your family a ticket to Bali, you can use a filter to get the cheapest and most comfortable flight there is to maximize your holiday plan. This project was done in a team.
+Tired with your daily life and need a quick vacation to another city and/or country? don't worry, Angkasa will help you find a flight ticket to any popular destination in the world. Start creating an account to buy you and your family a ticket, you can use a filter to get the cheapest and most comfortable flight there is to maximize your holiday plan. This project was built in a team.
 
 <!-- GETTING STARTED -->
 
@@ -127,7 +127,7 @@ REACT_APP_BACKEND_URL = [BACKEND_URL]
      <td>Dashboard Admin</td>
   </tr>
       <tr>
-    <td><img width="350px" src="https://i.ibb.co/XCZZDmp/airline-Admin.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="./documentation/airlineAdmin.png"  border="0" border="0" alt="3" /> </td>
      <td><img width="350px" src="./documentation/flightAdmin.png"  border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
@@ -136,7 +136,7 @@ REACT_APP_BACKEND_URL = [BACKEND_URL]
   </tr>
        <tr>
     <td><img width="350px" src="./documentation/paymentAdmin.png"  border="0" border="0" alt="3" /> </td>
-     <td><img width="350px" src="https://i.ibb.co/jDVz0d7/city-Admin.png"   border="0" border="0" alt="4" /></td>
+     <td><img width="350px" src="./documentation/cityAdmin.png"   border="0" border="0" alt="4" /></td>
   </tr>
    <tr>
     <td>Payment Admin</td>
@@ -164,7 +164,7 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Frontend Ankasa`](https://github.com/alifankebima/ankasa-frontend)
 
-:rocket: [`Demo Ankasa`](https://insancitaticket.vercel.app/)
+:rocket: [`Demo Ankasa`](https://ankasa2023.vercel.app/)
 
 <!-- Meet The Teams -->
 
@@ -195,13 +195,13 @@ Contributions are what make the open source community such an amazing place to b
       </td>
       <td align="center">
         <a href="https://github.com/andkvnt">
-          <img width="200"  src="" alt=""><br/>
+          <img width="200"  src="./documentation/andhiko.jpg" alt=""><br/>
           <b>Andiko Octavianto</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/rrizalyuniar">
-          <img width="200"   src="" alt=""><br/>
+          <img width="200"   src="./documentation/rizal.jpg" alt=""><br/>
           <b>Rizal Yuniar</b>
         </a>
       </td>
@@ -213,7 +213,7 @@ Contributions are what make the open source community such an amazing place to b
       </td>
      <td align="center">
         <a href=https://github.com/RezaldhoArmadhani">
-          <img width="200"  src="" alt=""><br/>
+          <img width="200"  src="./documentation/aldho.jpg" alt=""><br/>
           <b>Rezaldo Armadani</b>
         </a>
       </td>
